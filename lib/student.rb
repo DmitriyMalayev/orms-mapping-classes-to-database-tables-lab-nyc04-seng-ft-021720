@@ -23,5 +23,5 @@ end
 
 
 def self.drop_table
-  DROP TABLE students
+  DROP TABLE student
 end
